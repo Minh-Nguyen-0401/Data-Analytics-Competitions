@@ -1,0 +1,673 @@
+,Region,Sales Channel,Item Type,Order Priority,Total Predicted Units Sold
+0,Asia,Offline,Baby Food,C,148985.46591576407
+1,Asia,Offline,Baby Food,H,107115.04646550951
+2,Asia,Offline,Baby Food,L,113249.98505188164
+3,Asia,Offline,Baby Food,M,138978.71686964054
+4,Asia,Offline,Beverages,C,138939.00745153616
+5,Asia,Offline,Beverages,H,70743.33388002963
+6,Asia,Offline,Beverages,L,137514.28427718702
+7,Asia,Offline,Beverages,M,111809.94551495816
+8,Asia,Offline,Cereal,C,102036.94834137808
+9,Asia,Offline,Cereal,H,199170.4000665354
+10,Asia,Offline,Cereal,L,169462.11527838118
+11,Asia,Offline,Cereal,M,149562.84226537883
+12,Asia,Offline,Clothes,C,105479.90852414897
+13,Asia,Offline,Clothes,H,134773.9729294256
+14,Asia,Offline,Clothes,L,154207.796161748
+15,Asia,Offline,Clothes,M,157115.88344416788
+16,Asia,Offline,Cosmetics,C,72140.21806935687
+17,Asia,Offline,Cosmetics,H,150916.85322254358
+18,Asia,Offline,Cosmetics,L,114479.98628619102
+19,Asia,Offline,Cosmetics,M,110418.85563680455
+20,Asia,Offline,Fruits,C,91637.42538909808
+21,Asia,Offline,Fruits,H,139018.25432643143
+22,Asia,Offline,Fruits,L,130826.07527608624
+23,Asia,Offline,Fruits,M,108446.2367516064
+24,Asia,Offline,Household,C,123251.2565140711
+25,Asia,Offline,Household,H,129795.8528268711
+26,Asia,Offline,Household,L,120662.8826867184
+27,Asia,Offline,Household,M,111022.39238009864
+28,Asia,Offline,Meat,C,88147.05268032331
+29,Asia,Offline,Meat,H,166208.8635842551
+30,Asia,Offline,Meat,L,110160.58857990778
+31,Asia,Offline,Meat,M,124915.29703078936
+32,Asia,Offline,Office Supplies,C,149818.5112236231
+33,Asia,Offline,Office Supplies,H,125307.0840604138
+34,Asia,Offline,Office Supplies,L,152079.9778306147
+35,Asia,Offline,Office Supplies,M,128987.2994323294
+36,Asia,Offline,Personal Care,C,104939.52330808844
+37,Asia,Offline,Personal Care,H,143081.72835056618
+38,Asia,Offline,Personal Care,L,139597.84090079673
+39,Asia,Offline,Personal Care,M,83088.01212064651
+40,Asia,Offline,Snacks,C,123949.74012314837
+41,Asia,Offline,Snacks,H,104005.72113430152
+42,Asia,Offline,Snacks,L,117121.7187153495
+43,Asia,Offline,Snacks,M,112577.49718621447
+44,Asia,Offline,Vegetables,C,148051.51913364246
+45,Asia,Offline,Vegetables,H,142566.88435081605
+46,Asia,Offline,Vegetables,L,99404.50083239537
+47,Asia,Offline,Vegetables,M,146095.41976851138
+48,Asia,Online,Baby Food,C,94690.17169555034
+49,Asia,Online,Baby Food,H,160065.9828849375
+50,Asia,Online,Baby Food,L,130855.89017010176
+51,Asia,Online,Baby Food,M,125310.35528055442
+52,Asia,Online,Beverages,C,98926.22662890304
+53,Asia,Online,Beverages,H,183606.81540512288
+54,Asia,Online,Beverages,L,169403.8431446938
+55,Asia,Online,Beverages,M,87518.64793725027
+56,Asia,Online,Cereal,C,172060.2197582115
+57,Asia,Online,Cereal,H,136320.99165205116
+58,Asia,Online,Cereal,L,137318.59582662134
+59,Asia,Online,Cereal,M,97141.78068290513
+60,Asia,Online,Clothes,C,117369.89692543037
+61,Asia,Online,Clothes,H,109331.04889286552
+62,Asia,Online,Clothes,L,111476.90954187744
+63,Asia,Online,Clothes,M,155922.0077829921
+64,Asia,Online,Cosmetics,C,132549.20722335513
+65,Asia,Online,Cosmetics,H,117217.5689155172
+66,Asia,Online,Cosmetics,L,118973.80084756365
+67,Asia,Online,Cosmetics,M,117977.820804728
+68,Asia,Online,Fruits,C,154563.72522658634
+69,Asia,Online,Fruits,H,143900.4291577194
+70,Asia,Online,Fruits,L,128438.2601467281
+71,Asia,Online,Fruits,M,126535.06067435456
+72,Asia,Online,Household,C,172370.51683130892
+73,Asia,Online,Household,H,134460.87726585285
+74,Asia,Online,Household,L,101061.86731491516
+75,Asia,Online,Household,M,98406.07483959224
+76,Asia,Online,Meat,C,124869.5903980826
+77,Asia,Online,Meat,H,176535.93510175095
+78,Asia,Online,Meat,L,104821.68501709192
+79,Asia,Online,Meat,M,141986.57819223657
+80,Asia,Online,Office Supplies,C,144863.16048508225
+81,Asia,Online,Office Supplies,H,97455.93669187708
+82,Asia,Online,Office Supplies,L,141321.70009788327
+83,Asia,Online,Office Supplies,M,92216.9068868468
+84,Asia,Online,Personal Care,C,128507.80349732832
+85,Asia,Online,Personal Care,H,101684.59299733124
+86,Asia,Online,Personal Care,L,156220.2263337937
+87,Asia,Online,Personal Care,M,151891.1484835297
+88,Asia,Online,Snacks,C,130167.56285803729
+89,Asia,Online,Snacks,H,130486.36723451536
+90,Asia,Online,Snacks,L,147971.27859555485
+91,Asia,Online,Snacks,M,123787.28121110809
+92,Asia,Online,Vegetables,C,146509.32620943736
+93,Asia,Online,Vegetables,H,89796.81391173953
+94,Asia,Online,Vegetables,L,118810.7017181042
+95,Asia,Online,Vegetables,M,113325.88402191122
+96,Australia and Oceania,Offline,Baby Food,C,62638.277755051495
+97,Australia and Oceania,Offline,Baby Food,H,87421.4082157541
+98,Australia and Oceania,Offline,Baby Food,L,88664.94710099412
+99,Australia and Oceania,Offline,Baby Food,M,82263.70976985473
+100,Australia and Oceania,Offline,Beverages,C,87800.22038604291
+101,Australia and Oceania,Offline,Beverages,H,111499.54898353342
+102,Australia and Oceania,Offline,Beverages,L,124710.28371016546
+103,Australia and Oceania,Offline,Beverages,M,102891.05662074388
+104,Australia and Oceania,Offline,Cereal,C,96948.7198375455
+105,Australia and Oceania,Offline,Cereal,H,99164.5758867205
+106,Australia and Oceania,Offline,Cereal,L,87850.6340869368
+107,Australia and Oceania,Offline,Cereal,M,88802.91108276039
+108,Australia and Oceania,Offline,Clothes,C,113122.59150533116
+109,Australia and Oceania,Offline,Clothes,H,77196.58413696615
+110,Australia and Oceania,Offline,Clothes,L,99585.13212575795
+111,Australia and Oceania,Offline,Clothes,M,105951.82497951137
+112,Australia and Oceania,Offline,Cosmetics,C,112888.68054387058
+113,Australia and Oceania,Offline,Cosmetics,H,137911.2964655912
+114,Australia and Oceania,Offline,Cosmetics,L,69218.62720070657
+115,Australia and Oceania,Offline,Cosmetics,M,95772.15689481904
+116,Australia and Oceania,Offline,Fruits,C,57425.59003926815
+117,Australia and Oceania,Offline,Fruits,H,69400.09794305294
+118,Australia and Oceania,Offline,Fruits,L,97472.807822733
+119,Australia and Oceania,Offline,Fruits,M,87255.8342054991
+120,Australia and Oceania,Offline,Household,C,40744.02270126026
+121,Australia and Oceania,Offline,Household,H,95739.55093791032
+122,Australia and Oceania,Offline,Household,L,118297.89610252553
+123,Australia and Oceania,Offline,Household,M,114599.81822225724
+124,Australia and Oceania,Offline,Meat,C,106317.09190672736
+125,Australia and Oceania,Offline,Meat,H,79867.21854279723
+126,Australia and Oceania,Offline,Meat,L,55263.193105663406
+127,Australia and Oceania,Offline,Meat,M,77480.45603157088
+128,Australia and Oceania,Offline,Office Supplies,C,99039.58496716758
+129,Australia and Oceania,Offline,Office Supplies,H,102733.65461352064
+130,Australia and Oceania,Offline,Office Supplies,L,85861.9715888558
+131,Australia and Oceania,Offline,Office Supplies,M,62495.61982596398
+132,Australia and Oceania,Offline,Personal Care,C,94987.38530087635
+133,Australia and Oceania,Offline,Personal Care,H,67254.64472452296
+134,Australia and Oceania,Offline,Personal Care,L,83834.86968914724
+135,Australia and Oceania,Offline,Personal Care,M,75616.51573406147
+136,Australia and Oceania,Offline,Snacks,C,93060.50022051387
+137,Australia and Oceania,Offline,Snacks,H,109682.11143141196
+138,Australia and Oceania,Offline,Snacks,L,98219.45479347697
+139,Australia and Oceania,Offline,Snacks,M,104576.10934062093
+140,Australia and Oceania,Offline,Vegetables,C,62622.06380790072
+141,Australia and Oceania,Offline,Vegetables,H,43869.11858369985
+142,Australia and Oceania,Offline,Vegetables,L,104229.16642956488
+143,Australia and Oceania,Offline,Vegetables,M,89125.37493923915
+144,Australia and Oceania,Online,Baby Food,C,125549.58716264524
+145,Australia and Oceania,Online,Baby Food,H,93021.761634966
+146,Australia and Oceania,Online,Baby Food,L,87436.51042007045
+147,Australia and Oceania,Online,Baby Food,M,118223.95915068184
+148,Australia and Oceania,Online,Beverages,C,93796.15054739852
+149,Australia and Oceania,Online,Beverages,H,92799.31367307244
+150,Australia and Oceania,Online,Beverages,L,70396.9514769557
+151,Australia and Oceania,Online,Beverages,M,69818.13294603987
+152,Australia and Oceania,Online,Cereal,C,97152.58692747624
+153,Australia and Oceania,Online,Cereal,H,121329.37668758736
+154,Australia and Oceania,Online,Cereal,L,114277.88104357508
+155,Australia and Oceania,Online,Cereal,M,65036.99371369482
+156,Australia and Oceania,Online,Clothes,C,60814.00585699999
+157,Australia and Oceania,Online,Clothes,H,95258.8150988884
+158,Australia and Oceania,Online,Clothes,L,107233.84502057088
+159,Australia and Oceania,Online,Clothes,M,97400.42956853149
+160,Australia and Oceania,Online,Cosmetics,C,113726.38183060606
+161,Australia and Oceania,Online,Cosmetics,H,69211.94310186297
+162,Australia and Oceania,Online,Cosmetics,L,82078.61019802574
+163,Australia and Oceania,Online,Cosmetics,M,50396.31107189089
+164,Australia and Oceania,Online,Fruits,C,83330.96686696797
+165,Australia and Oceania,Online,Fruits,H,125027.27420504496
+166,Australia and Oceania,Online,Fruits,L,46859.65691868576
+167,Australia and Oceania,Online,Fruits,M,48365.65367053928
+168,Australia and Oceania,Online,Household,C,79441.2107012704
+169,Australia and Oceania,Online,Household,H,96783.12901224763
+170,Australia and Oceania,Online,Household,L,91987.358273211
+171,Australia and Oceania,Online,Household,M,88335.26425770237
+172,Australia and Oceania,Online,Meat,C,124593.3747206148
+173,Australia and Oceania,Online,Meat,H,59320.69117192134
+174,Australia and Oceania,Online,Meat,L,86780.77115869283
+175,Australia and Oceania,Online,Meat,M,77305.84519375527
+176,Australia and Oceania,Online,Office Supplies,C,92478.54238545452
+177,Australia and Oceania,Online,Office Supplies,H,82444.77020404927
+178,Australia and Oceania,Online,Office Supplies,L,94049.59696270883
+179,Australia and Oceania,Online,Office Supplies,M,73353.10658044807
+180,Australia and Oceania,Online,Personal Care,C,96096.89056501936
+181,Australia and Oceania,Online,Personal Care,H,138609.3070472551
+182,Australia and Oceania,Online,Personal Care,L,112811.01613554764
+183,Australia and Oceania,Online,Personal Care,M,100080.02386946228
+184,Australia and Oceania,Online,Snacks,C,104636.3855977506
+185,Australia and Oceania,Online,Snacks,H,68609.73152780584
+186,Australia and Oceania,Online,Snacks,L,72320.81980627225
+187,Australia and Oceania,Online,Snacks,M,47465.69031652788
+188,Australia and Oceania,Online,Vegetables,C,78089.87976066778
+189,Australia and Oceania,Online,Vegetables,H,104385.07546141316
+190,Australia and Oceania,Online,Vegetables,L,112448.01577940716
+191,Australia and Oceania,Online,Vegetables,M,71776.53681557962
+192,Central America and the Caribbean,Offline,Baby Food,C,91712.68941554264
+193,Central America and the Caribbean,Offline,Baby Food,H,91594.51472760548
+194,Central America and the Caribbean,Offline,Baby Food,L,113120.40964856982
+195,Central America and the Caribbean,Offline,Baby Food,M,123737.1884488946
+196,Central America and the Caribbean,Offline,Beverages,C,122781.21399310332
+197,Central America and the Caribbean,Offline,Beverages,H,100306.05419756606
+198,Central America and the Caribbean,Offline,Beverages,L,112347.41233739472
+199,Central America and the Caribbean,Offline,Beverages,M,168493.7657328925
+200,Central America and the Caribbean,Offline,Cereal,C,111063.27014442704
+201,Central America and the Caribbean,Offline,Cereal,H,83652.66667048597
+202,Central America and the Caribbean,Offline,Cereal,L,110456.355670889
+203,Central America and the Caribbean,Offline,Cereal,M,102274.48899040202
+204,Central America and the Caribbean,Offline,Clothes,C,114480.6490644779
+205,Central America and the Caribbean,Offline,Clothes,H,85781.11433537753
+206,Central America and the Caribbean,Offline,Clothes,L,136837.5178456231
+207,Central America and the Caribbean,Offline,Clothes,M,74530.69737666436
+208,Central America and the Caribbean,Offline,Cosmetics,C,100819.10095686153
+209,Central America and the Caribbean,Offline,Cosmetics,H,115464.3042071072
+210,Central America and the Caribbean,Offline,Cosmetics,L,106497.4552147122
+211,Central America and the Caribbean,Offline,Cosmetics,M,117707.822028995
+212,Central America and the Caribbean,Offline,Fruits,C,94574.7353767711
+213,Central America and the Caribbean,Offline,Fruits,H,123774.93209619244
+214,Central America and the Caribbean,Offline,Fruits,L,105886.3917359824
+215,Central America and the Caribbean,Offline,Fruits,M,119135.68957707696
+216,Central America and the Caribbean,Offline,Household,C,62885.34290453974
+217,Central America and the Caribbean,Offline,Household,H,111674.87670906444
+218,Central America and the Caribbean,Offline,Household,L,97360.07592248503
+219,Central America and the Caribbean,Offline,Household,M,89905.21060737224
+220,Central America and the Caribbean,Offline,Meat,C,104730.05393592968
+221,Central America and the Caribbean,Offline,Meat,H,71002.36588448049
+222,Central America and the Caribbean,Offline,Meat,L,93234.04854736722
+223,Central America and the Caribbean,Offline,Meat,M,113118.88177523747
+224,Central America and the Caribbean,Offline,Office Supplies,C,83820.5634850811
+225,Central America and the Caribbean,Offline,Office Supplies,H,97190.06899023392
+226,Central America and the Caribbean,Offline,Office Supplies,L,86854.9074711303
+227,Central America and the Caribbean,Offline,Office Supplies,M,119843.69045721088
+228,Central America and the Caribbean,Offline,Personal Care,C,104743.74966237789
+229,Central America and the Caribbean,Offline,Personal Care,H,120649.9960410205
+230,Central America and the Caribbean,Offline,Personal Care,L,93364.77303083969
+231,Central America and the Caribbean,Offline,Personal Care,M,85944.16430352945
+232,Central America and the Caribbean,Offline,Snacks,C,113518.54483379428
+233,Central America and the Caribbean,Offline,Snacks,H,94315.43350633886
+234,Central America and the Caribbean,Offline,Snacks,L,109815.59152948856
+235,Central America and the Caribbean,Offline,Snacks,M,121754.0933388856
+236,Central America and the Caribbean,Offline,Vegetables,C,103131.24830409136
+237,Central America and the Caribbean,Offline,Vegetables,H,81960.81907614885
+238,Central America and the Caribbean,Offline,Vegetables,L,128152.93436152212
+239,Central America and the Caribbean,Offline,Vegetables,M,116229.65971519348
+240,Central America and the Caribbean,Online,Baby Food,C,82873.94315651373
+241,Central America and the Caribbean,Online,Baby Food,H,63395.593667413625
+242,Central America and the Caribbean,Online,Baby Food,L,86947.59302922571
+243,Central America and the Caribbean,Online,Baby Food,M,113705.53776355078
+244,Central America and the Caribbean,Online,Beverages,C,130478.87281442614
+245,Central America and the Caribbean,Online,Beverages,H,81293.19396753926
+246,Central America and the Caribbean,Online,Beverages,L,112624.3666897525
+247,Central America and the Caribbean,Online,Beverages,M,78562.99028666856
+248,Central America and the Caribbean,Online,Cereal,C,105827.80799038196
+249,Central America and the Caribbean,Online,Cereal,H,95482.02331919323
+250,Central America and the Caribbean,Online,Cereal,L,100904.4886450265
+251,Central America and the Caribbean,Online,Cereal,M,152328.10103815747
+252,Central America and the Caribbean,Online,Clothes,C,61974.3411627316
+253,Central America and the Caribbean,Online,Clothes,H,132879.9533359226
+254,Central America and the Caribbean,Online,Clothes,L,128575.41074816717
+255,Central America and the Caribbean,Online,Clothes,M,115560.75259179367
+256,Central America and the Caribbean,Online,Cosmetics,C,136101.36892478302
+257,Central America and the Caribbean,Online,Cosmetics,H,105503.49736280616
+258,Central America and the Caribbean,Online,Cosmetics,L,100029.94260012028
+259,Central America and the Caribbean,Online,Cosmetics,M,110124.18681621502
+260,Central America and the Caribbean,Online,Fruits,C,88070.05337466844
+261,Central America and the Caribbean,Online,Fruits,H,92034.87637936964
+262,Central America and the Caribbean,Online,Fruits,L,149500.86645722095
+263,Central America and the Caribbean,Online,Fruits,M,91265.80001473708
+264,Central America and the Caribbean,Online,Household,C,82093.6668981298
+265,Central America and the Caribbean,Online,Household,H,82050.20404601983
+266,Central America and the Caribbean,Online,Household,L,94019.59508640338
+267,Central America and the Caribbean,Online,Household,M,138079.5613885266
+268,Central America and the Caribbean,Online,Meat,C,98640.6002609246
+269,Central America and the Caribbean,Online,Meat,H,85954.06268275702
+270,Central America and the Caribbean,Online,Meat,L,75144.98801603662
+271,Central America and the Caribbean,Online,Meat,M,153471.92413664487
+272,Central America and the Caribbean,Online,Office Supplies,C,113000.96276226366
+273,Central America and the Caribbean,Online,Office Supplies,H,91602.50211173669
+274,Central America and the Caribbean,Online,Office Supplies,L,106869.62666683616
+275,Central America and the Caribbean,Online,Office Supplies,M,90894.33871085817
+276,Central America and the Caribbean,Online,Personal Care,C,85989.775186402
+277,Central America and the Caribbean,Online,Personal Care,H,104826.39641612412
+278,Central America and the Caribbean,Online,Personal Care,L,67151.60695038675
+279,Central America and the Caribbean,Online,Personal Care,M,123694.40722965768
+280,Central America and the Caribbean,Online,Snacks,C,110277.57671799796
+281,Central America and the Caribbean,Online,Snacks,H,77784.40787144708
+282,Central America and the Caribbean,Online,Snacks,L,104414.31464825876
+283,Central America and the Caribbean,Online,Snacks,M,108862.41963750737
+284,Central America and the Caribbean,Online,Vegetables,C,87627.26974987936
+285,Central America and the Caribbean,Online,Vegetables,H,78381.08276151487
+286,Central America and the Caribbean,Online,Vegetables,L,63870.3620076859
+287,Central America and the Caribbean,Online,Vegetables,M,64062.33660182798
+288,Europe,Offline,Baby Food,C,171534.5488724095
+289,Europe,Offline,Baby Food,H,138814.64211303694
+290,Europe,Offline,Baby Food,L,169958.93931043247
+291,Europe,Offline,Baby Food,M,205543.9598546432
+292,Europe,Offline,Beverages,C,176924.69816261934
+293,Europe,Offline,Beverages,H,167598.06186086597
+294,Europe,Offline,Beverages,L,133301.55809893893
+295,Europe,Offline,Beverages,M,187043.13188301507
+296,Europe,Offline,Cereal,C,182385.0443282952
+297,Europe,Offline,Cereal,H,200993.4041926408
+298,Europe,Offline,Cereal,L,159600.08692630276
+299,Europe,Offline,Cereal,M,174049.46075755038
+300,Europe,Offline,Clothes,C,187263.5646316876
+301,Europe,Offline,Clothes,H,247525.29608842623
+302,Europe,Offline,Clothes,L,151327.5311895752
+303,Europe,Offline,Clothes,M,183045.31341043848
+304,Europe,Offline,Cosmetics,C,139001.13196121503
+305,Europe,Offline,Cosmetics,H,250280.6139770258
+306,Europe,Offline,Cosmetics,L,171089.30493280388
+307,Europe,Offline,Cosmetics,M,232668.8406589328
+308,Europe,Offline,Fruits,C,196522.87641405407
+309,Europe,Offline,Fruits,H,183637.21935080588
+310,Europe,Offline,Fruits,L,143563.26634712686
+311,Europe,Offline,Fruits,M,151287.26923781287
+312,Europe,Offline,Household,C,130657.9975522441
+313,Europe,Offline,Household,H,160136.36503058253
+314,Europe,Offline,Household,L,248025.0416998792
+315,Europe,Offline,Household,M,187559.1553540137
+316,Europe,Offline,Meat,C,156645.3634921911
+317,Europe,Offline,Meat,H,222549.1439540702
+318,Europe,Offline,Meat,L,230514.42921003487
+319,Europe,Offline,Meat,M,211742.93150054556
+320,Europe,Offline,Office Supplies,C,207240.416514747
+321,Europe,Offline,Office Supplies,H,193028.60105169535
+322,Europe,Offline,Office Supplies,L,245020.15446589456
+323,Europe,Offline,Office Supplies,M,235295.97252112115
+324,Europe,Offline,Personal Care,C,200256.58155642304
+325,Europe,Offline,Personal Care,H,175719.38627554986
+326,Europe,Offline,Personal Care,L,187742.11516227425
+327,Europe,Offline,Personal Care,M,156949.3353009816
+328,Europe,Offline,Snacks,C,142785.01022956672
+329,Europe,Offline,Snacks,H,216667.6657665765
+330,Europe,Offline,Snacks,L,148492.48788875254
+331,Europe,Offline,Snacks,M,146152.4589196606
+332,Europe,Offline,Vegetables,C,183286.9197200341
+333,Europe,Offline,Vegetables,H,201479.29772883808
+334,Europe,Offline,Vegetables,L,183229.02808573545
+335,Europe,Offline,Vegetables,M,219906.43989187907
+336,Europe,Online,Baby Food,C,130449.3269792051
+337,Europe,Online,Baby Food,H,214641.3140244244
+338,Europe,Online,Baby Food,L,195681.24159592084
+339,Europe,Online,Baby Food,M,179444.60575865407
+340,Europe,Online,Beverages,C,218873.9037186814
+341,Europe,Online,Beverages,H,225904.83151355133
+342,Europe,Online,Beverages,L,189913.7471000888
+343,Europe,Online,Beverages,M,190967.9613064461
+344,Europe,Online,Cereal,C,208333.9494594833
+345,Europe,Online,Cereal,H,164095.90149257713
+346,Europe,Online,Cereal,L,175978.34150997858
+347,Europe,Online,Cereal,M,151090.52564870493
+348,Europe,Online,Clothes,C,213458.02921001796
+349,Europe,Online,Clothes,H,186272.7134896248
+350,Europe,Online,Clothes,L,182619.4760176374
+351,Europe,Online,Clothes,M,184446.46751548487
+352,Europe,Online,Cosmetics,C,108553.82187065616
+353,Europe,Online,Cosmetics,H,149580.84630467853
+354,Europe,Online,Cosmetics,L,210258.30838543124
+355,Europe,Online,Cosmetics,M,199993.11421857565
+356,Europe,Online,Fruits,C,233044.8971975075
+357,Europe,Online,Fruits,H,159765.68090228597
+358,Europe,Online,Fruits,L,167224.89353465868
+359,Europe,Online,Fruits,M,139359.43322119638
+360,Europe,Online,Household,C,180320.0268211068
+361,Europe,Online,Household,H,187515.7898576516
+362,Europe,Online,Household,L,176632.70112540995
+363,Europe,Online,Household,M,191544.4867578754
+364,Europe,Online,Meat,C,122728.7007678276
+365,Europe,Online,Meat,H,174635.23565119118
+366,Europe,Online,Meat,L,189178.13259736207
+367,Europe,Online,Meat,M,213437.7452917513
+368,Europe,Online,Office Supplies,C,180156.2551041573
+369,Europe,Online,Office Supplies,H,220505.3577536784
+370,Europe,Online,Office Supplies,L,162394.97534094698
+371,Europe,Online,Office Supplies,M,166708.8977819162
+372,Europe,Online,Personal Care,C,168857.8194522829
+373,Europe,Online,Personal Care,H,247535.2974536044
+374,Europe,Online,Personal Care,L,143408.4799896288
+375,Europe,Online,Personal Care,M,204621.5152059205
+376,Europe,Online,Snacks,C,135601.7299173855
+377,Europe,Online,Snacks,H,202963.3040852868
+378,Europe,Online,Snacks,L,149564.92657197145
+379,Europe,Online,Snacks,M,182518.12170980565
+380,Europe,Online,Vegetables,C,198447.4664818102
+381,Europe,Online,Vegetables,H,187346.28763572412
+382,Europe,Online,Vegetables,L,182656.8936824693
+383,Europe,Online,Vegetables,M,169358.2961152659
+384,Middle East and North Africa,Offline,Baby Food,C,141199.45684168607
+385,Middle East and North Africa,Offline,Baby Food,H,116934.26796645354
+386,Middle East and North Africa,Offline,Baby Food,L,84351.89206759432
+387,Middle East and North Africa,Offline,Baby Food,M,52194.12162707381
+388,Middle East and North Africa,Offline,Beverages,C,129707.46812239796
+389,Middle East and North Africa,Offline,Beverages,H,100380.96183718376
+390,Middle East and North Africa,Offline,Beverages,L,75412.11744625746
+391,Middle East and North Africa,Offline,Beverages,M,93153.9503543799
+392,Middle East and North Africa,Offline,Cereal,C,130611.98217953694
+393,Middle East and North Africa,Offline,Cereal,H,87611.22274342885
+394,Middle East and North Africa,Offline,Cereal,L,113604.91100705307
+395,Middle East and North Africa,Offline,Cereal,M,128748.17222877312
+396,Middle East and North Africa,Offline,Clothes,C,123152.26647818137
+397,Middle East and North Africa,Offline,Clothes,H,160824.136731126
+398,Middle East and North Africa,Offline,Clothes,L,140374.93842651858
+399,Middle East and North Africa,Offline,Clothes,M,145531.43125957926
+400,Middle East and North Africa,Offline,Cosmetics,C,95624.41325721606
+401,Middle East and North Africa,Offline,Cosmetics,H,122890.29816572146
+402,Middle East and North Africa,Offline,Cosmetics,L,121625.91784898764
+403,Middle East and North Africa,Offline,Cosmetics,M,122297.4570623479
+404,Middle East and North Africa,Offline,Fruits,C,67153.1073423473
+405,Middle East and North Africa,Offline,Fruits,H,120012.0494040584
+406,Middle East and North Africa,Offline,Fruits,L,141256.34525994226
+407,Middle East and North Africa,Offline,Fruits,M,99539.5161476858
+408,Middle East and North Africa,Offline,Household,C,117086.48124381671
+409,Middle East and North Africa,Offline,Household,H,132749.8785440943
+410,Middle East and North Africa,Offline,Household,L,104069.63299889686
+411,Middle East and North Africa,Offline,Household,M,116163.09231865176
+412,Middle East and North Africa,Offline,Meat,C,168575.2063814222
+413,Middle East and North Africa,Offline,Meat,H,155887.36750852503
+414,Middle East and North Africa,Offline,Meat,L,145008.53846278824
+415,Middle East and North Africa,Offline,Meat,M,112286.64995190303
+416,Middle East and North Africa,Offline,Office Supplies,C,162587.95649455188
+417,Middle East and North Africa,Offline,Office Supplies,H,81982.3235528389
+418,Middle East and North Africa,Offline,Office Supplies,L,157564.92858045542
+419,Middle East and North Africa,Offline,Office Supplies,M,137863.2164064136
+420,Middle East and North Africa,Offline,Personal Care,C,119009.46851664007
+421,Middle East and North Africa,Offline,Personal Care,H,160913.7646303536
+422,Middle East and North Africa,Offline,Personal Care,L,115488.73618383256
+423,Middle East and North Africa,Offline,Personal Care,M,141592.29711267332
+424,Middle East and North Africa,Offline,Snacks,C,109350.74359928792
+425,Middle East and North Africa,Offline,Snacks,H,127556.76799772627
+426,Middle East and North Africa,Offline,Snacks,L,112720.53290443122
+427,Middle East and North Africa,Offline,Snacks,M,124494.12802418123
+428,Middle East and North Africa,Offline,Vegetables,C,128779.17749374782
+429,Middle East and North Africa,Offline,Vegetables,H,107978.46714168036
+430,Middle East and North Africa,Offline,Vegetables,L,83162.83121731189
+431,Middle East and North Africa,Offline,Vegetables,M,85610.6585201432
+432,Middle East and North Africa,Online,Baby Food,C,132673.7290526618
+433,Middle East and North Africa,Online,Baby Food,H,108751.11396910805
+434,Middle East and North Africa,Online,Baby Food,L,93994.8680054851
+435,Middle East and North Africa,Online,Baby Food,M,133207.43471875173
+436,Middle East and North Africa,Online,Beverages,C,58000.40961417644
+437,Middle East and North Africa,Online,Beverages,H,120728.92711514032
+438,Middle East and North Africa,Online,Beverages,L,94788.27427918796
+439,Middle East and North Africa,Online,Beverages,M,116437.12520013964
+440,Middle East and North Africa,Online,Cereal,C,100988.81734730271
+441,Middle East and North Africa,Online,Cereal,H,121144.21900305524
+442,Middle East and North Africa,Online,Cereal,L,152557.30248364637
+443,Middle East and North Africa,Online,Cereal,M,144439.12511909782
+444,Middle East and North Africa,Online,Clothes,C,108631.2163379352
+445,Middle East and North Africa,Online,Clothes,H,94020.10641886215
+446,Middle East and North Africa,Online,Clothes,L,151441.0759016778
+447,Middle East and North Africa,Online,Clothes,M,122551.4870286526
+448,Middle East and North Africa,Online,Cosmetics,C,77389.13017758282
+449,Middle East and North Africa,Online,Cosmetics,H,132958.6931742261
+450,Middle East and North Africa,Online,Cosmetics,L,112237.95715621968
+451,Middle East and North Africa,Online,Cosmetics,M,77042.73922686942
+452,Middle East and North Africa,Online,Fruits,C,116202.19480587656
+453,Middle East and North Africa,Online,Fruits,H,112132.81607638524
+454,Middle East and North Africa,Online,Fruits,L,75392.58804030478
+455,Middle East and North Africa,Online,Fruits,M,121357.17323085148
+456,Middle East and North Africa,Online,Household,C,121930.41576345716
+457,Middle East and North Africa,Online,Household,H,124936.1676786356
+458,Middle East and North Africa,Online,Household,L,104185.81976347456
+459,Middle East and North Africa,Online,Household,M,120716.47940157756
+460,Middle East and North Africa,Online,Meat,C,123910.15911048275
+461,Middle East and North Africa,Online,Meat,H,156425.52863793998
+462,Middle East and North Africa,Online,Meat,L,91115.40292952332
+463,Middle East and North Africa,Online,Meat,M,79009.9237521744
+464,Middle East and North Africa,Online,Office Supplies,C,121203.11457558985
+465,Middle East and North Africa,Online,Office Supplies,H,84902.0473038362
+466,Middle East and North Africa,Online,Office Supplies,L,155746.24186497685
+467,Middle East and North Africa,Online,Office Supplies,M,102854.81071463406
+468,Middle East and North Africa,Online,Personal Care,C,131158.4043075988
+469,Middle East and North Africa,Online,Personal Care,H,110926.52469548504
+470,Middle East and North Africa,Online,Personal Care,L,119196.29849403651
+471,Middle East and North Africa,Online,Personal Care,M,107280.56297258537
+472,Middle East and North Africa,Online,Snacks,C,90847.89699571836
+473,Middle East and North Africa,Online,Snacks,H,67088.26166047792
+474,Middle East and North Africa,Online,Snacks,L,112341.78566349907
+475,Middle East and North Africa,Online,Snacks,M,81560.16059798238
+476,Middle East and North Africa,Online,Vegetables,C,129286.74890068448
+477,Middle East and North Africa,Online,Vegetables,H,133295.41037897952
+478,Middle East and North Africa,Online,Vegetables,L,121521.13094235188
+479,Middle East and North Africa,Online,Vegetables,M,124874.28831824244
+480,North America,Offline,Baby Food,C,22459.824018765557
+481,North America,Offline,Baby Food,H,25046.75852585129
+482,North America,Offline,Baby Food,L,114837.73576693345
+483,North America,Offline,Baby Food,M,45903.70160165194
+484,North America,Offline,Beverages,C,22464.39912437847
+485,North America,Offline,Beverages,H,62408.39892571903
+486,North America,Offline,Beverages,L,134531.6504652808
+487,North America,Offline,Beverages,M,102106.73396449238
+488,North America,Offline,Cereal,C,100402.86420601462
+489,North America,Offline,Cereal,H,38446.84825803354
+490,North America,Offline,Cereal,L,38820.62191807484
+491,North America,Offline,Cereal,M,194917.9052530678
+492,North America,Offline,Clothes,C,94928.5457833373
+493,North America,Offline,Clothes,H,111741.12447443912
+494,North America,Offline,Clothes,L,67004.2028647607
+495,North America,Offline,Clothes,M,100420.75827656948
+496,North America,Offline,Cosmetics,C,87696.64034742305
+497,North America,Offline,Cosmetics,H,63606.62083002551
+498,North America,Offline,Cosmetics,L,92509.69558739114
+499,North America,Offline,Cosmetics,M,74252.72061577358
+500,North America,Offline,Fruits,C,42292.6566041291
+501,North America,Offline,Fruits,H,50290.2268883498
+502,North America,Offline,Fruits,L,135816.46207805947
+503,North America,Offline,Fruits,M,79150.60678466839
+504,North America,Offline,Household,C,121485.70604986524
+505,North America,Offline,Household,H,23342.267237875185
+506,North America,Offline,Household,L,81939.73832711125
+507,North America,Offline,Household,M,138902.3303921408
+508,North America,Offline,Meat,C,142082.57427149775
+509,North America,Offline,Meat,H,69713.13906509287
+510,North America,Offline,Meat,L,81351.41007463202
+511,North America,Offline,Meat,M,9288.398937684313
+512,North America,Offline,Office Supplies,C,48364.415744078455
+513,North America,Offline,Office Supplies,H,76379.64689025964
+514,North America,Offline,Office Supplies,L,22867.75506304748
+515,North America,Offline,Office Supplies,M,97759.92327902114
+516,North America,Offline,Personal Care,C,28684.887927792726
+517,North America,Offline,Personal Care,H,177517.42955751118
+518,North America,Offline,Personal Care,L,109005.1701273912
+519,North America,Offline,Personal Care,M,54028.665577362495
+520,North America,Offline,Snacks,C,65678.15028335256
+521,North America,Offline,Snacks,H,10596.696897038786
+522,North America,Offline,Snacks,L,75209.33207185633
+523,North America,Offline,Snacks,M,48950.05011230039
+524,North America,Offline,Vegetables,C,145210.1935232697
+525,North America,Offline,Vegetables,H,72043.33876086872
+526,North America,Offline,Vegetables,L,67734.71253676403
+527,North America,Offline,Vegetables,M,37475.73591644481
+528,North America,Online,Baby Food,C,119224.53033947293
+529,North America,Online,Baby Food,H,71917.77643581653
+530,North America,Online,Baby Food,L,124180.1174017418
+531,North America,Online,Baby Food,M,69509.65023449044
+532,North America,Online,Beverages,C,8506.82923100323
+533,North America,Online,Beverages,H,102279.76332541858
+534,North America,Online,Beverages,L,96184.92437258114
+535,North America,Online,Beverages,M,86736.44739117064
+536,North America,Online,Cereal,C,37154.16452857434
+537,North America,Online,Cereal,H,9342.505947721662
+538,North America,Online,Cereal,L,55222.2953679705
+539,North America,Online,Cereal,M,79532.06651391629
+540,North America,Online,Clothes,C,209320.83829196004
+541,North America,Online,Clothes,H,108752.8682571095
+542,North America,Online,Clothes,L,37544.037664979405
+543,North America,Online,Clothes,M,69862.68377029288
+544,North America,Online,Cosmetics,C,117940.8519529954
+545,North America,Online,Cosmetics,H,42605.81383481903
+546,North America,Online,Cosmetics,L,120983.87489367716
+547,North America,Online,Cosmetics,M,35465.098404944525
+548,North America,Online,Fruits,C,11030.946568177524
+549,North America,Online,Fruits,H,31705.64945377497
+550,North America,Online,Fruits,L,11816.53001180575
+551,North America,Online,Fruits,M,52031.59770368565
+552,North America,Online,Household,C,116067.39165412469
+553,North America,Online,Household,H,69052.67966089652
+554,North America,Online,Household,L,61336.320399896445
+555,North America,Online,Household,M,39354.010378504034
+556,North America,Online,Meat,C,97914.17067017998
+557,North America,Online,Meat,H,65700.3111189182
+558,North America,Online,Meat,L,70367.43427391165
+559,North America,Online,Meat,M,183690.00410769583
+560,North America,Online,Office Supplies,C,80554.66543669703
+561,North America,Online,Office Supplies,H,61146.36562641479
+562,North America,Online,Office Supplies,L,102416.45597673253
+563,North America,Online,Office Supplies,M,115664.74628350156
+564,North America,Online,Personal Care,C,43181.02600782985
+565,North America,Online,Personal Care,H,142657.3831581661
+566,North America,Online,Personal Care,L,190624.51956184808
+567,North America,Online,Personal Care,M,96120.69076785231
+568,North America,Online,Snacks,C,7832.708830369532
+569,North America,Online,Snacks,H,9815.908170173168
+570,North America,Online,Snacks,L,164812.96475622404
+571,North America,Online,Snacks,M,55039.23379657195
+572,North America,Online,Vegetables,C,66146.964700636
+573,North America,Online,Vegetables,H,41023.593628537485
+574,North America,Online,Vegetables,L,77893.48305003137
+575,North America,Online,Vegetables,M,35137.86461279186
+576,Sub-Saharan Africa,Offline,Baby Food,C,141747.8476393092
+577,Sub-Saharan Africa,Offline,Baby Food,H,203449.46691324483
+578,Sub-Saharan Africa,Offline,Baby Food,L,176234.4743030914
+579,Sub-Saharan Africa,Offline,Baby Food,M,202697.6716636199
+580,Sub-Saharan Africa,Offline,Beverages,C,202237.9012096056
+581,Sub-Saharan Africa,Offline,Beverages,H,221944.76729620172
+582,Sub-Saharan Africa,Offline,Beverages,L,182738.7285482315
+583,Sub-Saharan Africa,Offline,Beverages,M,231629.57355423787
+584,Sub-Saharan Africa,Offline,Cereal,C,184457.56895532765
+585,Sub-Saharan Africa,Offline,Cereal,H,199105.0172303439
+586,Sub-Saharan Africa,Offline,Cereal,L,189754.84315431985
+587,Sub-Saharan Africa,Offline,Cereal,M,177935.21261294783
+588,Sub-Saharan Africa,Offline,Clothes,C,182542.5869539743
+589,Sub-Saharan Africa,Offline,Clothes,H,156588.96192051287
+590,Sub-Saharan Africa,Offline,Clothes,L,199331.99285710123
+591,Sub-Saharan Africa,Offline,Clothes,M,208010.8982781959
+592,Sub-Saharan Africa,Offline,Cosmetics,C,224349.83356713565
+593,Sub-Saharan Africa,Offline,Cosmetics,H,171214.82068160656
+594,Sub-Saharan Africa,Offline,Cosmetics,L,186445.00043044903
+595,Sub-Saharan Africa,Offline,Cosmetics,M,206277.14671274397
+596,Sub-Saharan Africa,Offline,Fruits,C,201111.7468765881
+597,Sub-Saharan Africa,Offline,Fruits,H,159274.60536475983
+598,Sub-Saharan Africa,Offline,Fruits,L,170575.12744738488
+599,Sub-Saharan Africa,Offline,Fruits,M,135978.72658578746
+600,Sub-Saharan Africa,Offline,Household,C,160254.37397911795
+601,Sub-Saharan Africa,Offline,Household,H,167740.79426110833
+602,Sub-Saharan Africa,Offline,Household,L,190203.6924689508
+603,Sub-Saharan Africa,Offline,Household,M,222533.6794924473
+604,Sub-Saharan Africa,Offline,Meat,C,196916.29616497373
+605,Sub-Saharan Africa,Offline,Meat,H,162912.4841277434
+606,Sub-Saharan Africa,Offline,Meat,L,218590.4349896595
+607,Sub-Saharan Africa,Offline,Meat,M,229915.4538197352
+608,Sub-Saharan Africa,Offline,Office Supplies,C,215296.41375142272
+609,Sub-Saharan Africa,Offline,Office Supplies,H,194377.36773381583
+610,Sub-Saharan Africa,Offline,Office Supplies,L,153467.07106237265
+611,Sub-Saharan Africa,Offline,Office Supplies,M,213519.38872560515
+612,Sub-Saharan Africa,Offline,Personal Care,C,192055.5738610864
+613,Sub-Saharan Africa,Offline,Personal Care,H,201600.65131086973
+614,Sub-Saharan Africa,Offline,Personal Care,L,205187.00448117396
+615,Sub-Saharan Africa,Offline,Personal Care,M,168414.40751024467
+616,Sub-Saharan Africa,Offline,Snacks,C,165063.89196901149
+617,Sub-Saharan Africa,Offline,Snacks,H,206455.00640017365
+618,Sub-Saharan Africa,Offline,Snacks,L,146216.9416346596
+619,Sub-Saharan Africa,Offline,Snacks,M,195005.78993732095
+620,Sub-Saharan Africa,Offline,Vegetables,C,205166.47705638796
+621,Sub-Saharan Africa,Offline,Vegetables,H,175879.4676527518
+622,Sub-Saharan Africa,Offline,Vegetables,L,180375.8779004064
+623,Sub-Saharan Africa,Offline,Vegetables,M,160529.50854155773
+624,Sub-Saharan Africa,Online,Baby Food,C,161079.51134651722
+625,Sub-Saharan Africa,Online,Baby Food,H,203089.97996593837
+626,Sub-Saharan Africa,Online,Baby Food,L,242788.5385519029
+627,Sub-Saharan Africa,Online,Baby Food,M,189702.480232249
+628,Sub-Saharan Africa,Online,Beverages,C,174924.8675061472
+629,Sub-Saharan Africa,Online,Beverages,H,215737.5329679439
+630,Sub-Saharan Africa,Online,Beverages,L,190449.1967505863
+631,Sub-Saharan Africa,Online,Beverages,M,256533.4786525722
+632,Sub-Saharan Africa,Online,Cereal,C,181446.71539344132
+633,Sub-Saharan Africa,Online,Cereal,H,159987.83219599634
+634,Sub-Saharan Africa,Online,Cereal,L,178014.5261424145
+635,Sub-Saharan Africa,Online,Cereal,M,127357.6483128502
+636,Sub-Saharan Africa,Online,Clothes,C,211394.4901187716
+637,Sub-Saharan Africa,Online,Clothes,H,208300.0507975356
+638,Sub-Saharan Africa,Online,Clothes,L,180331.27788845825
+639,Sub-Saharan Africa,Online,Clothes,M,154303.759972539
+640,Sub-Saharan Africa,Online,Cosmetics,C,141643.74580828942
+641,Sub-Saharan Africa,Online,Cosmetics,H,212976.9081128828
+642,Sub-Saharan Africa,Online,Cosmetics,L,183822.27838993305
+643,Sub-Saharan Africa,Online,Cosmetics,M,200101.74645089617
+644,Sub-Saharan Africa,Online,Fruits,C,179265.0668159462
+645,Sub-Saharan Africa,Online,Fruits,H,197883.159014404
+646,Sub-Saharan Africa,Online,Fruits,L,157864.38652075778
+647,Sub-Saharan Africa,Online,Fruits,M,233152.00682219304
+648,Sub-Saharan Africa,Online,Household,C,206043.83268489208
+649,Sub-Saharan Africa,Online,Household,H,148548.45367322085
+650,Sub-Saharan Africa,Online,Household,L,220584.73440102595
+651,Sub-Saharan Africa,Online,Household,M,217472.28921774615
+652,Sub-Saharan Africa,Online,Meat,C,164407.68648144713
+653,Sub-Saharan Africa,Online,Meat,H,170302.108681069
+654,Sub-Saharan Africa,Online,Meat,L,168143.9043654473
+655,Sub-Saharan Africa,Online,Meat,M,173419.15584602806
+656,Sub-Saharan Africa,Online,Office Supplies,C,174057.47113574293
+657,Sub-Saharan Africa,Online,Office Supplies,H,187243.6339399623
+658,Sub-Saharan Africa,Online,Office Supplies,L,145350.74354331606
+659,Sub-Saharan Africa,Online,Office Supplies,M,189347.06040095008
+660,Sub-Saharan Africa,Online,Personal Care,C,158327.13751892385
+661,Sub-Saharan Africa,Online,Personal Care,H,153472.22885366945
+662,Sub-Saharan Africa,Online,Personal Care,L,173975.2126080554
+663,Sub-Saharan Africa,Online,Personal Care,M,214082.12304575776
+664,Sub-Saharan Africa,Online,Snacks,C,176165.15025216909
+665,Sub-Saharan Africa,Online,Snacks,H,201098.5154944476
+666,Sub-Saharan Africa,Online,Snacks,L,211076.66822446985
+667,Sub-Saharan Africa,Online,Snacks,M,173884.93996380284
+668,Sub-Saharan Africa,Online,Vegetables,C,169413.90811027223
+669,Sub-Saharan Africa,Online,Vegetables,H,210879.20135935335
+670,Sub-Saharan Africa,Online,Vegetables,L,206324.40589002965
+671,Sub-Saharan Africa,Online,Vegetables,M,191342.84551270813
