@@ -10,7 +10,7 @@ This project focuses on developing a Technical Support Dashboard and conducting 
 - **`README.md`**: Provides an overview and essential details of the project.
 - **`Technical Support Dashboards.pbix`**: The main BI development file containing data retrieval, preprocessing, generating calcualted columns and measures, and dashboard building.
 - **`Technical Support Dataset - May 2024.xlsx`**: The original dataset provided by [onyxdata.co.uk](https://onyxdata.co.uk/)
-- **Final Outcome***: A folder containing all deliverables of the project
+- **`Final Outcome`***: A folder containing all deliverables of the project
 
 #### About the Dataset:
 
